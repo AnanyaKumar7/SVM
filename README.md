@@ -38,10 +38,7 @@ S10	|0.813354	|rbf	|0.668707	|0.544932|
 
 
 
-## Submission by :
-**Name** : Sidharth Bahl
-<br>
-**Roll No** : 102017016
+
 
 
 
